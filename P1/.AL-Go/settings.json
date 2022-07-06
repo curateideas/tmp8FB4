@@ -6,5 +6,6 @@
     "testFolders":  [
 
                     ],
-    "versioningStrategy":  16
+    "versioningStrategy":  16,
+    "RepoVersion":  "3.0"
 }
